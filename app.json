@@ -1,19 +1,17 @@
 {
   "expo": {
-    "name": "HelloWorld",
-    "slug": "cwsPricing",
+    "name": "Quick Price Template",
+    "slug": "quick-price-template",
     "platforms": [
       "ios",
-      "android",
-      "web"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "image": "./assets/splash-full.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ab4b58"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
