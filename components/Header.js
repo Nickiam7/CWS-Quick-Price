@@ -6,7 +6,6 @@ import Vars from '../constants/Variables';
 
 const Header = (props) => {
     return (
-
         <View style={styles.header}>
             <LinearGradient
                 colors={['#ab4b58', '#ff6b7f', '#ab4b58']}

@@ -3,7 +3,7 @@
     "name": "Quick Price Template",
     "slug": "quick-price-template",
     "platforms": [
-      "ios",
+      "ios"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,7 +22,7 @@
     "ios": {
       "supportsTablet": true,
       "buildNumber": "1.0.0",
-      "bundleIdentifier": "com.classicwineselections.quick-price-template",
+      "bundleIdentifier": "com.classicwineselections.quick-price-template"
     }
   }
 }
